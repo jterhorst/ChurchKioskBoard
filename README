@@ -1,7 +1,7 @@
 ChurchKioskBoard for Mac
 ================================
 
-*Designed to run on an Intel-based Mac Mini with Core Animation. Geared for Snow Leopard.
+* Designed to run on an Intel-based Mac Mini with Core Animation. Geared for Snow Leopard.
 
 Customizable
 ------------
@@ -28,29 +28,3 @@ XML
 Point the field to a feed on your church's web server (you can customize your CMS to output this data in the appropriate format).
 The XML format is as follows:
 
-<announcements>
-	<entry>
-		<title>Sample Item</title>
-		<startdate>2008-10-28 11:00:00 -0500</startdate>
-		<enddate>2008-11-01 11:00:00 -0500</enddate>
-		<body>Here's some sample body copy.</body>
-	</entry>
-	<entry>
-		<title>Sample Item</title>
-		<startdate>2008-10-29 11:00:00 -0500</startdate>
-		<enddate>2008-11-22 11:00:00 -0500</enddate>
-		<body>Here's some sample body copy.</body>
-	</entry>
-	<entry>
-		<title>Sample Item</title>
-		<startdate>2009-10-29 11:00:00 -0500</startdate>
-		<enddate>2009-11-13 11:00:00 -0500</enddate>
-		<body>Here's some sample body copy.</body>
-	</entry>
-	<entry>
-		<title>Sample Item</title>
-		<startdate>2008-10-27 11:00:00 -0500</startdate>
-		<enddate>2008-11-08 11:00:00 -0500</enddate>
-		<body>Here's some sample body copy.</body>
-	</entry>
-</announcements>
